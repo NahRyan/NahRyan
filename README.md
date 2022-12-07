@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=6D15F7&width=435&lines=Owner+%40+Bomb+Semi-RP;Unturned+Workshop+Creator;New+and+improving+C%23+and+Lua+Dev" alt="Typing SVG" /></a>
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/314ztc2xua2ae3oga5s7gkmaxkke) <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314ztc2xua2ae3oga5s7gkmaxkke&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=cd04e7)](https://github.com/kittinan/spotify-github-profile)
 
 <details>
   <summary>Projects</summary>
