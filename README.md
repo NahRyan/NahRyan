@@ -6,7 +6,10 @@
 <details>
   <summary>Projects 💻</summary>
 
-</color=fc4503💣Bomb Semi-RP C#/Unturned </color>
-<color=cd04e7>💤 Night Life DOJ:RP Lua/FiveM </color>
+💣Bomb Semi-RP C#/Unturned
+💤 Night Life DOJ:RP Lua/FiveM
 
 </details>
+
+**Hello! I am Mr.Duck a new and learning Unturned Server Developer, I own a small community named Bomb Semi-RP and that is my current project.
+I am learning to develop plugins for unturned so I hope you have as much fun as I do on my journy 👋**
