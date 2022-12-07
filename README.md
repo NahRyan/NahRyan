@@ -6,7 +6,7 @@
 <details>
   <summary>Projects 💻</summary>
 
-</color=#fc4503💣Bomb Semi-RP C#/Unturned</color>
-<color=#cd04e7>💤 Night Life DOJ:RP Lua/FiveM</color>
+</color=fc4503💣Bomb Semi-RP C#/Unturned </color>
+<color=cd04e7>💤 Night Life DOJ:RP Lua/FiveM </color>
 
 </details>
