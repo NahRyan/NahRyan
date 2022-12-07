@@ -1,8 +1,9 @@
 # Mr.Duck
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+  <summary><color=purple>Projects</color></summary>
 
-YOUR TABLE
+  <color=orange>Bomb Semi-RP C#/Unturned</color>
+  <color=purple>Night Life DOJ:RP Lua/FiveM</color>
 
 </details>
