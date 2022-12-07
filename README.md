@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=cd04e7&width=435&lines=Owner+%40+Bomb+Semi-RP;Unturned+Workshop+Creator;New+and+improving+C%23+and+Lua+Dev" alt="Typing SVG" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=8214D7&width=435&lines=Hello!+I+am+Mr.Duck+a+new+and+learning+Unturned+Server+Developer%2C+I+own+a+small+community+named+Bomb+Semi-RP+and+that+is+my+current+project.+I+am+learning+to+develop+plugins+for+unturned+so+I+hope+you+have+as+much+fun+as+I+do+on+my+journy+%F0%9F%91%8B)](https://git.io/typing-svg)
+**Hello! I am Mr.Duck a new and learning Unturned Server Developer, I own a small community named Bomb Semi-RP and that is my current project. I am learning to develop plugins for unturned so I hope you have as much fun as I do on my journy 👋
 
 <details>
   <summary>Projects 💻</summary>
@@ -43,3 +43,26 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+
+<div align="center" >
+<a  href="https://github.com/SP-XD">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+
+<hr></hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+
+</div>
