@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=cd04e7&width=435&lines=Owner+%40+Bomb+Semi-RP;Unturned+Workshop+Creator;New+and+improving+C%23+and+Lua+Dev" alt="Typing SVG" /></a>
 
 **Hello! I am Mr.Duck a new and learning Unturned Server Developer, I own a small community named Bomb Semi-RP and that is my current project. I am learning to develop plugins for unturned so I hope you have as much fun as I do on my journy 👋**
-
+<script src="https://bombnetwork.statuspage.io/embed/script.js"></script>
 <details>
   <summary>Projects 💻</summary>
 
