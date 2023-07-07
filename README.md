@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=cd04e7&width=435&lines=Owner+%40+Bomb+Semi-RP;Unturned+Workshop+Creator;New+and+improving+C%23+and+Lua+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=cd04e7&width=435&lines=Owner+%40+Florida+State+Network;FiveM+Lua+Developer;Thy+Flippington" alt="Typing SVG" /></a>
 
 **Hello! Thy Flippington, I do development work for some FiveM Serevrs like RRP, SASRP, GCN, FSN, LSDOJRP, OSRP, And many more. I am a learning Lua/C# Developer and hope to learn more on my journy! 👋**
 <details>
