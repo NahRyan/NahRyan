@@ -5,7 +5,6 @@
   <summary>Projects 💻</summary>
 
 💣 Florida State Network
-💤 Vibing fr
 
 </details>
 
