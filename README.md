@@ -1,12 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=cd04e7&width=435&lines=Owner+%40+Florida+State+Network;FiveM+Lua+Developer;Thy+Flippington" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=cd04e7&width=435&lines=Owner+Of+AtlasGuard;Best+Developer;Thy+Flippington" alt="Typing SVG" /></a>
 
-**Hello! Thy Flippington, I do development work for some FiveM Serevrs like RRP, SASRP, GCN, FSN, LSDOJRP, OSRP, And many more. I am a learning Lua/C# Developer and hope to learn more on my journy! 👋**
+**Hello! Thy Flippington, I do development work for some FiveM Serevrs like RRP, SASRP, GCN, FSN, LSDOJRP, OSRP, And many more. I know a lot about Lua & Javascript. Hoping to take a new learning path in C# 👋**
 <details>
   <summary>Projects 💻</summary>
 
-💣 Florida State Network
+💔 I have resigned from developing until 2026...
 
 </details>
+
+I'll fix this later v
 
 <br><br> Vibing to : 🎧  </strong></p>
 
