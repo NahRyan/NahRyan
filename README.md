@@ -1,42 +1,41 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=cd04e7&width=435&lines=Owner+Of+AtlasGuard;Best+Developer;Thy+Flippington" alt="Typing SVG" /></a>
+### Ryan / ThyFlippington
 
-**Hello! Thy Flippington, I do development work for some FiveM Serevrs like RRP, SASRP, GCN, FSN, LSDOJRP, OSRP, And many more. I know a lot about Lua & Javascript. Hoping to take a new learning path in C# 👋**
-<details>
-  <summary>Projects 💻</summary>
+I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
+student and I also love Physics, and want to learn more about how the Universe works.
 
-💔 I have resigned from developing until 2026...
+I'm a FiveM Developer and occasional Web Developer who likes to make sleek and high-quality websites and applications. I'm currently a high school student 
+and would like to learn more.
 
-</details>
+### 🕛 Past Work I have done.
 
-I'll fix this later v
+- Former Owner of **AtlasGuard.xyz**
+- Former Owner of **Atlas Hosting**
+- Los Santos Department Of Justice Roleplay
+- Overseas Roleplay
+- San Andreas State Roleplay
+- Raiders Roleplay
+- Florida State Network
+- Xtreme Roleplay
 
-<br><br> Vibing to : 🎧  </strong></p>
+[`📫 nahryan@icloud.com`](mailto:nahryan@icloud.com)
+### 📦 Resources I Use
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314ztc2xua2ae3oga5s7gkmaxkke&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=cd04e7)](https://github.com/kittinan/spotify-github-profile)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+### 👷 Check out what I'm currently working on
 
+- A Modern and sleek FiveM CAD System
+- A Security solution for discord servers
+- A Pack of quality FiveM UI.
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+### 🌱 My latest projects
 
-<div align="center" >
+- None Yet
 
-<hr></hr>
+### 🔨 My recent Pull Requests
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/ThyFlippington/" width="75%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+- None Yet
 
-</div>
+### 🔭 Latest releases I've contributed to
+
+- [Baseys/Atlas-Neon]([https://github.com/maximousblk/mill](https://github.com/Baseys/Atlas-Neon))
