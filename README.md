@@ -38,4 +38,4 @@ and would like to learn more.
 
 ### 🔭 Latest releases I've contributed to
 
-- [Baseys/Atlas-Neon]([https://github.com/maximousblk/mill](https://github.com/Baseys/Atlas-Neon))
+- [`💡 Baseys/Atlas-Neon`](https://github.com/Baseys/Atlas-Neon)
