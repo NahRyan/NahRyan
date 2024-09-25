@@ -1,8 +1,5 @@
 ### Ryan / ThyFlippington
 
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
-student and I also love Physics, and want to learn more about how the Universe works.
-
 I'm a FiveM Developer and occasional Web Developer who likes to make sleek and high-quality websites and applications. I'm currently a high school student 
 and would like to learn more.
 
