@@ -1,4 +1,4 @@
-### Ryan / ThyFlippington
+### Ryan
 
 I'm a FiveM Developer and occasional Web Developer who likes to make sleek and high-quality websites and applications. I'm currently a high school student 
 and would like to learn more.
