@@ -3,16 +3,7 @@
 I'm a FiveM Developer and occasional Web Developer who likes to make sleek and high-quality websites and applications. I'm currently a high school student 
 and would like to learn more.
 
-### 🕛 Past Work I have done.
-
-- Former Owner of **AtlasGuard.xyz**
-- Former Owner of **Atlas Hosting**
-- Los Santos Department Of Justice Roleplay
-- Overseas Roleplay
-- San Andreas State Roleplay
-- Raiders Roleplay
-- Florida State Network
-- Xtreme Roleplay
+### 🕛 Past Work I have done
 
 [`📫 nahryan@icloud.com`](mailto:nahryan@icloud.com)
 ### 📦 Resources I Use
@@ -22,8 +13,8 @@ and would like to learn more.
 ### 👷 Check out what I'm currently working on
 
 - A Modern and sleek FiveM CAD System
-- A Security solution for discord servers
-- A Pack of quality FiveM UI.
+- A Security Solution for discord servers
+- Custom LEO Fleets & Liveries
 
 ### 🌱 My latest projects
 
