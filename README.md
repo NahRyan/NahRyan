@@ -3,7 +3,10 @@
 I'm a FiveM Developer and occasional Web Developer who likes to make sleek and high-quality websites and applications. I'm currently a high school student 
 and would like to learn more.
 
-### 🕛 Past Work I have done
+### 🔗 Myself
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [`📫 nahryan@icloud.com`](mailto:nahryan@icloud.com)
 ### 📦 Resources I Use
