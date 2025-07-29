@@ -42,7 +42,7 @@
 
 ###
 
-<h5 align="left">I'm currently a high school student learning and continuing with development. Currently working on high-quality and unique products targeted towards the FiveM Community. You can find more about me or our products through Sirius Studios.</h5>
+<h5 align="left">I'm currently a high school student learning and continuing with development. Currently working on high-quality and unique products targeted towards the FiveM Community. You can find more about me or our products through Solyn Studios.</h5>
 
 ###
 
@@ -50,15 +50,15 @@
 
 ###
 
-<p align="left">- Sirius Manager: A Sleek and modern Duty Manager for FiveM<br>- Sirius Framework: A Standalone framework designed for vMenu communities<br>- Sirius Sense: A Protection solution for Discord and Mumble Voice Moderation.</p>
+<p align="left">- Solyn Manager: A Sleek and modern Duty Manager for FiveM<br>- Solyn Framework: A Standalone framework designed for vMenu communities<br>- Solyn Sense: A Protection solution for Discord and Mumble Voice Moderation.</p>
 
 ###
 
-<h3 align="left">📣 Sirius Studios</h3>
+<h3 align="left">📣 Solyn Studios</h3>
 
 ###
 
-<p align="left">You can find more information on me and my projects through Sirius Studios.<br><br>- https://sirius-studios.tebex.io/<br>- https://discord.gg/98rKbu5KM2<br>- https://siriusnet.xyz<br>- https://github.com/SiriusDevLabs</p>
+<p align="left">You can find more information on me and my projects through Solyn Studios.<br><br>- https://solyn.tebex.io/<br>- https://discord.gg/98rKbu5KM2<br>- https://solyn.cc<br>- https://github.com/SiriusDevLabs</p>
 
 ###
 
